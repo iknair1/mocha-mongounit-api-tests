@@ -49,7 +49,11 @@ This starts mongo-unit( //mongodb://localhost:27017/test)
 
 #### Integration with Circle CI
 Getting everything running on Circle CI was really straightworfard.
-Check the config.yaml for more details.
+Check the circle.ci/config.yaml for more details.
+
+![Workflow_ApiTests](/Workflow_ApiTests.png)
+
+![Passing_ApiTests](/Passing_ApiTests.png)
 
 ##### To do:
 1. In future I may split the single job into two, one to build and start the server and the next one to run the cypress tests.
