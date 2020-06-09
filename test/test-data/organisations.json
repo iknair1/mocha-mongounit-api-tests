@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "5ec152049d730053a6169479",
+    "properties": [
+      "5ec261251a20f86d51b56edc",
+      "5ec261251a20f86d51b56edd"
+    ],
+    "users": [
+      "5ec1522c9d730053a616947c",
+      "5ec1528d9d730053a616947e"
+    ],
+    "name": "Default Organisation",
+    "__v": 3
+  }
+]
