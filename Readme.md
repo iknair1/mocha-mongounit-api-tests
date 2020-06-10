@@ -1,5 +1,8 @@
 ### Api tests with Mocha, Chai, Supertest and Mongo Unit
 
+##### Context
+The system we are building consists of a Node Express application backed by a MongoDB database.
+
 We started writing tests with Mocha, Supertest and Chai. We were talking to the dev mongo-db instance initially to get the protype working which looked like this
 ```
 describe('GET count api', function () {
